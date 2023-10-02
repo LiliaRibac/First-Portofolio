@@ -1,0 +1,89 @@
+body {
+  background-color: #fcdac7;
+}
+
+img {
+  border-radius: 5%;
+  width: 25%;
+  height: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: #441b04;
+  color: #fbfaf7;
+  text-align: center;
+  margin: 0;
+  padding: 20px 20px;
+}
+
+.intro,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Lucida Sans', sans-serif;
+  text-align: center;
+  color: #441b04;
+}
+
+.intro,
+p,
+.links {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: #441b04;
+}
+
+.about-me {
+  letter-spacing: 1px;
+  margin: 35px 15%;
+}
+
+section {
+  display: inline-block;
+  text-align: left;
+}
+
+.exicted {
+  position: relative;
+  padding: 25px 210px;
+  color: #441b04;
+}
+
+.free-time {
+  position: absolute;
+  margin-top: -180px;
+  padding: 25px 12%;
+  right: 70px;
+  color: #441b04;
+}
+li {
+  letter-spacing: 0.75px;
+}
+hr {
+  border-top: 0.5px dashed #772014;
+  border-bottom: 1px solid #f2dda4;
+  width: 70%;
+}
+
+.links,
+a {
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+}
+a:hover {
+  color: #132a13;
+}
+a:active {
+  color: #cc5803;
+}
